@@ -1,2 +1,3 @@
-# pro-fintech-app-k2dn
-A financial technology application for modern development workflows
+# Pro Fintech App K2Dn
+
+A financial technology application for modern development workflows.
